@@ -60,7 +60,7 @@ The server will run on http://localhost:3001.
 
 ## Demo
 Here is a demonstration of the database in use, employing Insomnia
-C:\Users\Joey\bootcamp\13-Challenge\Assets\Untitled_ Aug 2, 2024 1_25 PM.gif
+[C:\Users\Joey\bootcamp\13-Challenge\Assets\Untitled_ Aug 2, 2024 1_25 PM.gif](https://github.com/wol42verine/13-Challenge/blob/main/Assets/Untitled_%20Aug%202,%202024%201_25%20PM.gif?raw=true)
 
 ## Troubleshooting
 If you encounter issues:
